@@ -1,0 +1,62 @@
+.select-link{
+    background: rgba(182, 104, 104,0.65);
+}
+.btnlogout{
+    border: 1px solid rgb(151, 103, 103);
+    background: transparent;
+    border-radius: 6px;
+}
+.btnlogout:hover{
+    box-shadow: 1px 2px 2px rgb(193, 103, 103);
+}
+.home-pg{
+
+    background: rgba(206, 187, 187, 0.65);
+    /* box-shadow: 0 8px 32px 0 rgba(29, 38, 171, 0.37); */
+    backdrop-filter: blur( 16px );
+    -webkit-backdrop-filter: blur( 16px );
+    /* height: 320px; */
+    box-sizing: content-box;
+}
+.img{
+    height: 420px;
+    margin-top: -60px;
+}
+
+.btn-1{
+    background-color: rgb(195, 135, 122);
+    color: #fff;
+    border: 2px solid #FFF;
+    border-radius: 25px 10px;
+    margin-top: 20px;
+}
+.btn-1:hover{
+    background-color: transparent;
+    color: #000;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+.register-box{
+    background-color: rgb(116, 92, 72);
+}
+.errorc{
+    color: rgb(223, 67, 67);
+}
+.success{
+    color: rgb(21, 214, 69);
+}
+.errorinput{
+    border: 1px solid rgb(196, 53, 53);
+}
+
+@media (max-width:550px) {
+    .text-1{
+        margin-top: 20px;
+    }
+    .img{
+        margin: 0px auto;
+        width: 320px;
+        height: 320px;
+        
+    }
+}

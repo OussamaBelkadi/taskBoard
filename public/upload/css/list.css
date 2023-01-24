@@ -1,0 +1,19 @@
+.btnlogout{
+    border: 1px solid rgb(151, 103, 103);
+    background: transparent;
+    border-radius: 4px;
+}
+.btnlogout:hover{
+    box-shadow: 1px 2px 2px rgb(193, 103, 103);
+}
+.draggable.dragging{
+    opacity: .5;
+}
+.txt{
+    margin-left: 10Px;
+}
+.hiden{
+    display: none;
+}
+.block{
+    display: block !important;}

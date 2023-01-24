@@ -1,0 +1,22 @@
+.btnlogout{
+    border: 1px solid rgb(151, 103, 103);
+    background: transparent;
+    border-radius: 4px;
+}
+.btnlogout:hover{
+    box-shadow: 1px 2px 2px rgb(193, 103, 103);
+}
+.crd{
+    background: rgb(195, 135, 122);
+    color: #fff;
+}
+.btnopen{
+    background: rgb(195, 135, 122);
+    color: #fff;
+}
+.us{
+    color: rgb(220, 132, 85);
+    box-shadow: 1px 2px 2px rgb(193, 103, 103);
+    background: #fff;
+    border: 1px solid rgb(195, 135, 122);
+}
